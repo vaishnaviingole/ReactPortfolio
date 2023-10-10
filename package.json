@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0"
+  },
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "app.js",
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnaviingole/ReactPortfolio.git"
+  },
+  "author": "vaishnavi ingole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnaviingole/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/vaishnaviingole/ReactPortfolio#readme"
+}
